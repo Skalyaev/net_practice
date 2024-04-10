@@ -1,13 +1,46 @@
 # Net_Practice
+> *Ce projet vise à vous faire découvrir le réseau par des cas pratiques.*
 
-*This project is a general practical exercise to let you discover networking.*
+Vous allez devoir configurer des réseaux de petite taille. Pour ce faire, il vous faudra comprendre le fonctionnement des adressages avec le protocole TCP/IP.
 
-## Objectives
-You will have to configure small-scale networks. To do so, it will be necessary to understand how TCP/IP addressing works.
+<details><summary>Niveau 1</summary>
 
-In this project, the networks you will work with are not real ones.
-They will be available via a training interface that you will open in your web browser.
+![](https://github.com/Skalyaeve/images/blob/main/screenshot/netpractice1.gif)
+</details>
+<details><summary>Niveau 2</summary>
 
-## Checklists
-- [x] Ip/mask calculation
-- [x] Subnetting
+![](https://github.com/Skalyaeve/images/blob/main/screenshot/netpractice2.gif)
+</details>
+<details><summary>Niveau 3</summary>
+
+![](https://github.com/Skalyaeve/images/blob/main/screenshot/netpractice3.gif)
+</details>
+<details><summary>Niveau 4</summary>
+
+![](https://github.com/Skalyaeve/images/blob/main/screenshot/netpractice3.gif)
+</details>
+<details><summary>Niveau 5</summary>
+
+![](https://github.com/Skalyaeve/images/blob/main/screenshot/netpractice3.gif)
+</details>
+<details><summary>Niveau 6</summary>
+
+![](https://github.com/Skalyaeve/images/blob/main/screenshot/netpractice3.gif)
+</details>
+<details><summary>Niveau 7</summary>
+
+![](https://github.com/Skalyaeve/images/blob/main/screenshot/netpractice3.gif)
+</details>
+<details><summary>Niveau 8</summary>
+
+![](https://github.com/Skalyaeve/images/blob/main/screenshot/netpractice3.gif)
+</details>
+<details><summary>Niveau 9</summary>
+
+![](https://github.com/Skalyaeve/images/blob/main/screenshot/netpractice3.gif)
+</details>
+<details><summary>Niveau 10</summary>
+
+![](https://github.com/Skalyaeve/images/blob/main/screenshot/netpractice10.gif)
+</details>
+> Adresses générées aléatoirement.
