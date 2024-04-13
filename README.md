@@ -3,7 +3,7 @@
 >
 > *Vous allez devoir configurer des réseaux de petite taille. Pour ce faire, il vous faudra comprendre le fonctionnement des adressages avec le protocole TCP/IP.*
 
-## Aperçu
+## Preview
 <details><summary>Niveau 1</summary>
 
 ![](https://github.com/Skalyaeve/images-1/blob/main/screenshot/netpractice1.png)
@@ -44,3 +44,4 @@
 
 ![](https://github.com/Skalyaeve/images-1/blob/main/screenshot/netpractice10.png)
 </details>
+
