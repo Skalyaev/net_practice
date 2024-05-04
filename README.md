@@ -44,4 +44,3 @@
 
 ![](https://github.com/Skalyaeve/images-1/blob/main/screenshot/netpractice10.png)
 </details>
-
